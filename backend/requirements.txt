@@ -1,7 +1,14 @@
 fastapi
 uvicorn
 python-multipart
+<<<<<<< HEAD
 pypdf
 python-docx
 streamlit
 requests
+=======
+pydantic
+pypdf
+python-docx
+streamlit
+>>>>>>> 589f2777540779ed691e1e582771c4b6de8efda8
